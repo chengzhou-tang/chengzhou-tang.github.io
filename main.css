@@ -6,6 +6,10 @@ body {
     font-size: medium;
 } 
 
+mark {
+  background-color: #F8BA00;
+}
+
 A:link {background: none; color: #C33833; text-decoration: none; cursor: pointer;}
 A:visited {background: none; color: #C33833; text-decoration: none; cursor: pointer;}
 A:hover {background: none; color: #C33833; text-decoration: none; cursor: pointer;}
